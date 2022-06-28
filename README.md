@@ -30,12 +30,12 @@ TO CLONE FROM TERMINAL OR VS CODE
 Note: the repository name and output numbers that you see on your computer, representing the total file size, etc may differ from the example provided below.
 
 #############
-Cloning into 'test-repo'...
+`Cloning into 'test-repo'...
 remote: Counting objects: 5, done.
 remote: Compressing objects: 100% (4/4), done.
 remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (5/5), done.
-Checking connectivity... done. 
+Checking connectivity... done. `
 
 ###############
 
